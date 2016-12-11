@@ -119,9 +119,9 @@
     react-test-renderer "^15.3.1"
     require-hijack "^1.2.1"
 
-"@ox2/toggle@^0.0.1":
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/@ox2/toggle/-/toggle-0.0.1.tgz#0f1d66e0382d72576887ce6e039847f5e92724b0"
+"@ox2/toggle@^0.0.2":
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/@ox2/toggle/-/toggle-0.0.2.tgz#5620b67dd09d6a86830ae3b54142f67df920a10f"
   dependencies:
     styled-components "^1.1.3"
 
