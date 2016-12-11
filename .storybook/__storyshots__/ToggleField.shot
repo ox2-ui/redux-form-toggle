@@ -1,0 +1,27 @@
+exports[`default`] = `
+<label
+  className="dEWRtq"
+  style={undefined}>
+  <div
+    className="cFNsmu"
+    disabled={undefined}
+    style={undefined}>
+    my label
+  </div>
+  <div
+    className="ddmShN">
+    <input
+      checked={true}
+      className="lmkVLy"
+      color="#2ecc71"
+      disabled={undefined}
+      onChange={[Function]}
+      type="checkbox" />
+    <span
+      className="iZgbnP">
+      <i
+        className="bqdnEt" />
+    </span>
+  </div>
+</label>
+`;
