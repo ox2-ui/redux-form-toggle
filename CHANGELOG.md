@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## Unreleased
 
+## 0.0.3 - 2016-12-11
+### Changed
+- Dependency update: `@ox2/toggle@0.0.3`
+
 ## 0.0.2 - 2016-12-11
 ### Changed
 - Dependency update: `@ox2/toggle@0.0.2`
