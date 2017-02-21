@@ -9,7 +9,7 @@ function loadStories() {
 
 // Custom storybook options
 setOptions({
-  name: 'rf-toggle',
+  name: 'redux-form-toggle',
 });
 
 
