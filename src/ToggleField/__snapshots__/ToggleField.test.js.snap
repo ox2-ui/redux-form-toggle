@@ -1,0 +1,53 @@
+exports[`test renders correctly 1`] = `
+<ToggleField
+  input={
+    Object {
+      "onChange": [Function],
+      "value": true,
+    }
+  }
+  label="my label">
+  <Toggle
+    label="my label"
+    onChange={[Function]}
+    value={true}>
+    <styled.label>
+      <label
+        className="dEWRtq">
+        <styled.div>
+          <div
+            className="cFNsmu">
+            my label
+          </div>
+        </styled.div>
+        <styled.div>
+          <div
+            className="ddmShN">
+            <styled.input
+              checked={true}
+              color="#2ecc71"
+              onChange={[Function]}
+              type="checkbox">
+              <input
+                checked={true}
+                className="lmkVLy"
+                color="#2ecc71"
+                onChange={[Function]}
+                type="checkbox" />
+            </styled.input>
+            <styled.span>
+              <span
+                className="iZgbnP">
+                <styled.i>
+                  <i
+                    className="bqdnEt" />
+                </styled.i>
+              </span>
+            </styled.span>
+          </div>
+        </styled.div>
+      </label>
+    </styled.label>
+  </Toggle>
+</ToggleField>
+`;
