@@ -14,9 +14,9 @@ const ToggleField = ({ input, ...custom }) => (
 
 ToggleField.propTypes = {
   /**
-   * [redux-form] The props under the input key are what connects your input component to Redux and are meant to be destructured into your <input/> component.
+   * [redux-form] The props under the input key are what connects your input component to Redux and are meant to be destructured into your `<input/>` component.
    */
-  input: PropTypes.any,
+  input: PropTypes.object,
 };
 
 export default ToggleField;
