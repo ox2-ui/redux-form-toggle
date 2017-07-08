@@ -13,10 +13,10 @@ exports[`test renders correctly 1`] = `
     value={true}>
     <styled.label>
       <label
-        className="dEWRtq">
+        className="fhQNhR">
         <styled.div>
           <div
-            className="cFNsmu">
+            className="hGyXZB">
             my label
           </div>
         </styled.div>

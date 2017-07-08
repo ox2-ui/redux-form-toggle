@@ -1,6 +1,6 @@
 {
   "name": "@ox2/redux-form-toggle",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Toggle component wrapper for redux-form.",
   "repository": {
     "type": "git",
@@ -56,7 +56,7 @@
     "npm": "^3.0.0"
   },
   "dependencies": {
-    "@ox2/toggle": "^0.0.3"
+    "@ox2/toggle": "^0.0.4"
   },
   "peerDependencies": {
     "react": "^15.0.0",
